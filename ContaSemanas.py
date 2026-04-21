@@ -21,3 +21,4 @@ def calcular_contador_semanas(fecha_inicio_str):
 
 fecha_proyecto = "01/01/2026" 
 calcular_contador_semanas(fecha_proyecto)
+# los mejores proyectos se hacen con tiempo, paciencia y dedicación.
