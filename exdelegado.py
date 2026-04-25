@@ -1,0 +1,1 @@
+print("hola geric soy  el ex delegado estoy practicando en tu repositorio")
